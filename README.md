@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Rocket.sect </h1>
+<h1 align="center">👨‍💻 Rocket.sect</h1>
 
 ![Rocket.sect](img/rocket-sect.png)
 
